@@ -1,2 +1,9 @@
-<h1 class="text-green-500">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import Body from "../component/body.svelte";
+    import Hero from "../component/hero.svelte";
+
+</script>
+<div data-theme="lofi">
+    <Hero/>
+  <Body/>
+</div>
