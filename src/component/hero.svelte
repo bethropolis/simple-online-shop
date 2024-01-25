@@ -11,7 +11,7 @@
         <div class="hero-image w-1/2">
             <img
                 src="img.jpg"
-                class="h-96 shadow-2xl"
+                class="h-96 shadow-2xl transform transition duration-500 ease-in-out hover:scale-105 hover:bg-gray-200"
                 alt="retro clothes"
             />
         </div>
